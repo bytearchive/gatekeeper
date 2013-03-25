@@ -1,0 +1,30 @@
+%YAML 1.2
+---
+
+###########################################################
+#
+# Leonard Configuration
+#
+###########################################################
+
+# Who should be allowed in.
+# No spaces, all numbers, must include country code.
+# (HINT: US is 1)
+Users:
+ - 15559590296
+ - 15554871093
+
+# Who should be contacted in the case of an unknown user
+Admin: 15559232839
+
+# If you aren't a whitelisted user, you can text this password
+# None to turn this off
+Password: I like picking files
+
+# Party Mode
+# Let anyone in
+Party: No
+
+# Timeout
+# After receiving a text, how many minutes to wait before resetting
+Timeout: 4

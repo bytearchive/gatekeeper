@@ -1,0 +1,5 @@
+<Response>
+    <Say>Welcome. I'm letting you in now.</Say>
+    <Pause length="2"/> 
+    <Play digits="9"/> 
+</Response>
